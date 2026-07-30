@@ -220,7 +220,7 @@ National College of Ireland
 
 GitHub: https://github.com/puntambekartushar8899
 
-LinkedIn: *(Add your LinkedIn profile URL here)*
+
 
 ---
 
