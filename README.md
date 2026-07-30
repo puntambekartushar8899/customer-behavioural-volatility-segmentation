@@ -103,31 +103,31 @@ The project includes an interactive dashboard developed to explore customer beha
 
 ## Home Dashboard
 
-![Dashboard](screenshots/dashboard_home.png)
+![Dashboard](outputs/screenshots/dashboard_home.png)
 
 ---
 
 ## Customer Segmentation
 
-![Segmentation](screenshots/customer_segmentation.png)
+![Segmentation](outputs/screenshots/customer_segmentation.png)
 
 ---
 
 ## Cluster Analysis
 
-![Cluster Analysis](screenshots/cluster_analysis.png)
+![Cluster Analysis](outputs/screenshots/cluster_analysis.png)
 
 ---
 
 ## Customer Personas
 
-![Personas](screenshots/customer_personas.png)
+![Personas](outputs/screenshots/customer_personas.png)
 
 ---
 
 ## Model Evaluation
 
-![Evaluation](screenshots/model_evaluation.png)
+![Evaluation](outputs/screenshots/model_evaluation.png)
 ---
 
 # Repository Structure
