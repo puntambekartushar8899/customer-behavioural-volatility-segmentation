@@ -226,4 +226,7 @@ GitHub: https://github.com/puntambekartushar8899
 
 ## License
 
+<<<<<<< HEAD
 This project is intended for educational and portfolio purposes.
+=======
+
