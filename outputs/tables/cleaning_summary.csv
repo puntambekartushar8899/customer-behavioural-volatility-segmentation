@@ -1,0 +1,8 @@
+Issue,Before_Cleaning,After_Cleaning,Removed_or_Resolved
+Total rows,541909,392692,149217
+Missing CustomerID,135080,0,135080
+Missing Description,1454,0,1454
+Cancelled invoices,9288,0,9288
+Negative Quantity,10624,0,10624
+Zero or Negative UnitPrice,2517,0,2517
+Duplicate Rows,5268,0,5268

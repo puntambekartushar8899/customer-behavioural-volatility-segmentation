@@ -1,0 +1,9 @@
+Feature,Between_Cluster_Range,Between_Cluster_Std
+Monetary,3399.09,1626.2120435949714
+Customer_Lifetime_Days,240.06,114.17292542455063
+Recency,231.73000000000002,107.29375781780908
+Purchase_Interval_Std,42.66,21.253686739010718
+Frequency,6.73,3.2036372557870325
+Purchase_Velocity,1.0,0.5465879008296226
+Purchase_Regularity_Index,0.96,0.4719728099513078
+Invoice_Value_CV,0.49,0.24289915602982237

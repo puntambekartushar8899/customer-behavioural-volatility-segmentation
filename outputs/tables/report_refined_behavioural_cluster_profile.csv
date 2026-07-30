@@ -1,0 +1,5 @@
+KMeans_Cluster,Recency,Frequency,Monetary,Customer_Lifetime_Days,Purchase_Velocity,Purchase_Interval_Std,Purchase_Regularity_Index,Invoice_Value_CV
+0,62.8,1.05,425.47,1.02,1.04,0.0,1.0,0.03
+1,41.26,7.78,3824.56,241.08,0.04,42.66,0.04,0.52
+2,77.31,2.07,972.93,124.44,0.08,0.3,0.96,0.39
+3,272.99,1.19,438.72,5.08,0.97,0.16,0.99,0.06

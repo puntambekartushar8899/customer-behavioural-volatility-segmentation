@@ -1,0 +1,8 @@
+Feature_Set,Number_of_Features,K,Silhouette_Score,Davies_Bouldin_Index,Calinski_Harabasz_Score
+RFM,3,4,0.385,0.9094,4943.08
+RFM + Interval CV,4,4,0.3654,1.0056,3954.64
+RFM + Entropy,4,4,0.3168,1.0542,2988.57
+RFM + Spending CV,4,4,0.3138,1.0841,2390.81
+RFM + All Behavioural,11,4,0.2488,1.2917,1436.66
+RFM + Mean + CV + Entropy,6,4,0.2243,1.388,1282.57
+RFM + CV + Entropy,6,4,0.2126,1.5431,1630.85

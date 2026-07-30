@@ -1,0 +1,7 @@
+Dataset,Model,Silhouette Score,Davies-Bouldin Index,Calinski-Harabasz Score
+RFM,K-Means,0.385,0.9094,4943.08
+RFM,Hierarchical,0.323,0.9026,3748.42
+RFM,GMM,0.1842,1.5741,1919.84
+RFM + Behavioural,K-Means,0.2126,1.5431,1630.85
+RFM + Behavioural,Hierarchical,0.2036,1.6392,1303.64
+RFM + Behavioural,GMM,0.1563,1.9377,1074.44

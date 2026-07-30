@@ -1,0 +1,19 @@
+
+MODEL VALIDATION SUMMARY
+
+Bootstrap validation was performed using 50 resamples,
+with 80% of customers sampled in each run.
+
+Traditional RFM Mean Silhouette:
+0.3861
+
+Refined Behavioural Mean Silhouette:
+0.4363
+
+Mean Improvement:
+13.01%
+
+The refined behavioural volatility model demonstrated stronger average
+cluster separation across bootstrap samples. This supports the conclusion
+that carefully selected behavioural volatility features provide a stable
+improvement over traditional RFM-based segmentation.

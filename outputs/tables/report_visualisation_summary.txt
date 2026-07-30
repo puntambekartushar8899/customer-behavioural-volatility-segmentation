@@ -1,0 +1,12 @@
+
+FINAL VISUALISATION SUMMARY
+
+Traditional RFM K-Means Silhouette Score: 0.385
+Refined Behavioural K-Means Silhouette Score: 0.4367
+
+Silhouette improvement: 13.43%
+
+The refined behavioural volatility feature set achieved stronger cluster separation
+than the traditional RFM baseline under K-Means. This supports the research objective
+that carefully selected behavioural volatility features can improve customer
+segmentation quality while also providing richer behavioural interpretability.

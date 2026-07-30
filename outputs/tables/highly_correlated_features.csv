@@ -1,0 +1,9 @@
+Feature1,Feature2,Correlation
+Invoice_Value_Mean,Invoice_Value_Max,0.9219145691326819
+Invoice_Value_Std,Invoice_Value_Range,0.9686420677750138
+Invoice_Value_Max,Invoice_Value_Range,0.9194006670100741
+Invoice_Value_Std,Spending_Momentum,0.9684816579795624
+Invoice_Value_Range,Spending_Momentum,0.90270885292338
+Invoice_Value_Std,Spending_Momentum_Ratio,0.9672897393634721
+Spending_Momentum,Spending_Momentum_Ratio,0.9864862369664968
+Invoice_Value_Mean,Avg_Quantity_Per_Invoice,0.9309071479813309
