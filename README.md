@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Customer Behavioural Volatility Segmentation" width="100%">
+</p>
+
+# Customer Behavioural Volatility Segmentation using Unsupervised Machine Learning
+
 # Customer Behavioural Volatility Segmentation using Unsupervised Machine Learning
 
 <p align="center">
@@ -91,7 +97,37 @@ Raw Online Retail Dataset
             ▼
  Interactive Dashboard
 ```
+# Dashboard Preview
 
+The project includes an interactive dashboard developed to explore customer behaviour, clustering results and business insights.
+
+## Home Dashboard
+
+![Dashboard](screenshots/Screenshot%202026-07-28%20111233.png)
+
+---
+
+## Customer Segmentation
+
+![Segmentation](screenshots/Screenshot%202026-07-28%20111251.png)
+
+---
+
+## Cluster Analysis
+
+![Cluster Analysis](screenshots/Screenshot%202026-07-28%20111331.png)
+
+---
+
+## Customer Personas
+
+![Personas](screenshots/Screenshot%202026-07-28%20111401.png)
+
+---
+
+## Model Evaluation
+
+![Evaluation](screenshots/Screenshot%202026-07-28%20111434.png)
 ---
 
 # Repository Structure
@@ -278,9 +314,14 @@ National College of Ireland
 GitHub:
 https://github.com/puntambekartushar8899
 
-LinkedIn:
-*(Add your LinkedIn profile URL here)*
 
+## Project Highlights
+
+- Developed an end-to-end customer segmentation pipeline in Python.
+- Engineered behavioural volatility features to enhance traditional RFM analysis.
+- Compared K-Means, Hierarchical Agglomerative Clustering, and Gaussian Mixture Models.
+- Evaluated clustering quality using Silhouette, Davies–Bouldin, and Calinski–Harabasz indices.
+- Built an interactive Streamlit dashboard for business insights and visualization.
 ---
 
 # Citation
